@@ -64,15 +64,7 @@ I use exclusively Github
 
 * **Debruycker Vincent**
 
-## License
 
-This is an open source project not under any particular license.
-However framework, packages and librairies used are on their own licenses. Be aware of this if you intend to use part of this project for your own project.
-
-### List of licensed resources 
-* [CodyHouse - Schedule template](https://github.com/CodyHouse/schedule-template.git)
-* [TinyMCE - HTML editor package](https://www.tiny.cloud/)
-* [django-widget-tweaks](https://pypi.org/project/django-widget-tweaks/)
 
 
 
